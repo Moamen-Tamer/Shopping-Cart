@@ -1,4 +1,4 @@
-# Shopping-Cart
+# Shopping Cart Calculator
 Practise Project:  Shopping Cart Program in JavaScript (Node.js) — calculate prices, taxes, discounts, and edit your cart dynamically.
 
 ---
@@ -24,8 +24,8 @@ Practise Project:  Shopping Cart Program in JavaScript (Node.js) — calculate p
 ## 📦 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/shopping-cart-calculator.git
-   cd shopping-cart-calculator
+   git clone https://github.com/Moamen-Tamer/Shopping-Cart.git
+   cd Shopping-Cart
 
 2. Install dependencies:
    ```bash
