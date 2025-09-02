@@ -39,7 +39,7 @@ Practise Project:  Shopping Cart Program in JavaScript (Node.js) — calculate p
 
 ## 🖥️ Example Run
 
-  ```pgsql
+  ```Markdown
   Price (without taxes): 175 $
   Tax: 26.25 $
   Price (with taxes): 201.25 $
